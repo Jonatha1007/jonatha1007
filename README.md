@@ -3,7 +3,6 @@
 ![Jonatha1007 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonatha1007&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatha1007)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
